@@ -1,0 +1,12 @@
+channel,audience_segment,age_range,gender,interests,engagement_rate,conversion_rate,cost_per_click,region
+Instagram,Eco-conscious Millennials,25-34,All,Environment,4.2,2.1,0.85,North America
+Facebook,Health Enthusiasts,30-45,All,Fitness,3.8,1.8,1.20,North America
+LinkedIn,Professional Eco-Advocates,28-40,All,Sustainability,2.5,3.2,2.50,Global
+Twitter,Climate Activists,22-35,All,Environment,3.1,1.5,0.95,North America
+TikTok,Gen Z Eco-Warriors,18-25,All,Sustainability,5.5,1.2,0.60,North America
+Email,Existing Customers,25-55,All,Loyalty,8.5,4.5,0.10,Global
+Google Ads,Search Intent Users,25-50,All,Product Search,2.2,3.8,1.50,North America
+Pinterest,DIY Eco-Enthusiasts,25-45,Female,Home & Garden,4.8,2.5,0.75,North America
+YouTube,Educational Seekers,20-40,All,How-to Content,3.5,2.0,0.90,Global
+Reddit,Community Engagers,22-38,All,Discussion,2.8,1.8,0.55,North America
+
